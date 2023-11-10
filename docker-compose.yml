@@ -1,0 +1,9 @@
+version: '3'
+services:
+  python_script_template:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./app:/app
+    command: python main.py    
