@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AtlassianCloud JiraSoftware サイト上の プロジェクト を別のサイトへ移行するためのツール
+My simple python script template
 """
 import os
 import sys
